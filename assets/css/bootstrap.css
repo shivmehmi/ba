@@ -5797,8 +5797,8 @@ h2.notes figure {
     text-align: center;
     color: #45b29a;
     padding: 1em 0;
-    font-size: 225%;
-    font-weight: 500;
+    font-size: 200%;
+    font-weight: 400;
     font-family: 'Acme', sans-serif;
 }
 #title {
@@ -6176,7 +6176,7 @@ article header h2 {
     left: 0
 }
 #what-i-do .deets {
-    padding: 2em 4em 4em 2em
+    padding: 1em 0
 }
 
 @media (min-width:992px) {
