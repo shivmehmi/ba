@@ -4676,11 +4676,26 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', end
 width:device-width
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width : 452px ){
 @-ms-viewport {
 width:320px;
-	font-size: 12px !important;
+font-size: 12px !important;
 }
+	.main-h1{
+		font-size: 35px !important;
+	}
+	.web{
+		font-size: 18px !important;
+	}
+	h2{
+		font-size: 30px !important;
+	}
+	h3{
+		font-size: 20px !important;
+	}
+	p{
+		font-size: 18px !important;
+	}
 }
 .hidden {
     display: none!important;
